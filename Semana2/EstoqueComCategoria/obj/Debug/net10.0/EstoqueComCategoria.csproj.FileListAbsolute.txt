@@ -1,0 +1,4 @@
+C:\Estudos\CSharp\Semana2\EstoqueComCategoria\obj\Debug\net10.0\EstoqueComCategoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CSharp\Semana2\EstoqueComCategoria\obj\Debug\net10.0\EstoqueComCategoria.AssemblyInfoInputs.cache
+C:\Estudos\CSharp\Semana2\EstoqueComCategoria\obj\Debug\net10.0\EstoqueComCategoria.AssemblyInfo.cs
+C:\Estudos\CSharp\Semana2\EstoqueComCategoria\obj\Debug\net10.0\EstoqueComCategoria.csproj.CoreCompileInputs.cache

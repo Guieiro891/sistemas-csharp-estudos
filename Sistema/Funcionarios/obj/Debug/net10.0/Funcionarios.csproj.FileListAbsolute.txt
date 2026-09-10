@@ -1,0 +1,14 @@
+C:\Estudos\CSharp\Sistema\Funcionarios\obj\Debug\net10.0\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CSharp\Sistema\Funcionarios\obj\Debug\net10.0\Funcionarios.AssemblyInfoInputs.cache
+C:\Estudos\CSharp\Sistema\Funcionarios\obj\Debug\net10.0\Funcionarios.AssemblyInfo.cs
+C:\Estudos\CSharp\Sistema\Funcionarios\obj\Debug\net10.0\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Estudos\CSharp\Sistema\Funcionarios\bin\Debug\net10.0\Funcionarios.exe
+C:\Estudos\CSharp\Sistema\Funcionarios\bin\Debug\net10.0\Funcionarios.deps.json
+C:\Estudos\CSharp\Sistema\Funcionarios\bin\Debug\net10.0\Funcionarios.runtimeconfig.json
+C:\Estudos\CSharp\Sistema\Funcionarios\bin\Debug\net10.0\Funcionarios.dll
+C:\Estudos\CSharp\Sistema\Funcionarios\bin\Debug\net10.0\Funcionarios.pdb
+C:\Estudos\CSharp\Sistema\Funcionarios\obj\Debug\net10.0\Funcionarios.dll
+C:\Estudos\CSharp\Sistema\Funcionarios\obj\Debug\net10.0\refint\Funcionarios.dll
+C:\Estudos\CSharp\Sistema\Funcionarios\obj\Debug\net10.0\Funcionarios.pdb
+C:\Estudos\CSharp\Sistema\Funcionarios\obj\Debug\net10.0\Funcionarios.genruntimeconfig.cache
+C:\Estudos\CSharp\Sistema\Funcionarios\obj\Debug\net10.0\ref\Funcionarios.dll

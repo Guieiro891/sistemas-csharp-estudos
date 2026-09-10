@@ -1,0 +1,14 @@
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\bin\Debug\net10.0\EstoqueComCategoriaNovo.exe
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\bin\Debug\net10.0\EstoqueComCategoriaNovo.deps.json
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\bin\Debug\net10.0\EstoqueComCategoriaNovo.runtimeconfig.json
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\bin\Debug\net10.0\EstoqueComCategoriaNovo.dll
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\bin\Debug\net10.0\EstoqueComCategoriaNovo.pdb
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\obj\Debug\net10.0\EstoqueComCategoriaNovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\obj\Debug\net10.0\EstoqueComCategoriaNovo.AssemblyInfoInputs.cache
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\obj\Debug\net10.0\EstoqueComCategoriaNovo.AssemblyInfo.cs
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\obj\Debug\net10.0\EstoqueComCategoriaNovo.csproj.CoreCompileInputs.cache
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\obj\Debug\net10.0\EstoqueComCategoriaNovo.dll
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\obj\Debug\net10.0\refint\EstoqueComCategoriaNovo.dll
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\obj\Debug\net10.0\EstoqueComCategoriaNovo.pdb
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\obj\Debug\net10.0\EstoqueComCategoriaNovo.genruntimeconfig.cache
+C:\Estudos\CSharp\Semana2\EstoqueComCategoriaNovo\obj\Debug\net10.0\ref\EstoqueComCategoriaNovo.dll

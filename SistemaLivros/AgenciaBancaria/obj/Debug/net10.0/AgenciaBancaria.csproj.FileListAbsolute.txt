@@ -1,0 +1,14 @@
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\bin\Debug\net10.0\AgenciaBancaria.exe
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\bin\Debug\net10.0\AgenciaBancaria.deps.json
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\bin\Debug\net10.0\AgenciaBancaria.runtimeconfig.json
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\bin\Debug\net10.0\AgenciaBancaria.dll
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\bin\Debug\net10.0\AgenciaBancaria.pdb
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\obj\Debug\net10.0\AgenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\obj\Debug\net10.0\AgenciaBancaria.AssemblyInfoInputs.cache
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\obj\Debug\net10.0\AgenciaBancaria.AssemblyInfo.cs
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\obj\Debug\net10.0\AgenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\obj\Debug\net10.0\AgenciaBancaria.dll
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\obj\Debug\net10.0\refint\AgenciaBancaria.dll
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\obj\Debug\net10.0\AgenciaBancaria.pdb
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\obj\Debug\net10.0\AgenciaBancaria.genruntimeconfig.cache
+C:\Estudos\CSharp\SistemaLivros\AgenciaBancaria\obj\Debug\net10.0\ref\AgenciaBancaria.dll
