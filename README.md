@@ -15,6 +15,10 @@ Repositório com os sistemas que desenvolvi durante meus estudos de C# e .NET
 - C# / .NET
 - Programação Orientada a Objetos
 - LINQ
+- Entity Framework Core
+- SQL Server
+- ASP.NET Core (Web API)
+- Swagger
 - Git / GitHub
 
 ## Como rodar
