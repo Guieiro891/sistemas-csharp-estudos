@@ -16,5 +16,14 @@ public class AppDbContext : DbContext
         modelBuilder.Entity<Pedido>()
             .Property(p => p.Status)
             .HasConversion<string>();
+
+        modelBuilder.Entity<Produto>()
+            .Property(p => p.Preco)
+            .HasColumnType("decimal(10,2)");
+
+        modelBuilder.Entity<ItemPedido>()
+            .Property(i => i.PrecoUnitario)
+            .HasColumnType("decimal(10,2)");
     }
+
 }
