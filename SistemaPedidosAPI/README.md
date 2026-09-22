@@ -2,7 +2,7 @@
 
 API REST para gerenciamento de pedidos, desenvolvida em C# / .NET com Entity Framework Core e SQL Server.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - C# / .NET
 - ASP.NET Core (Web API)
@@ -10,7 +10,7 @@ API REST para gerenciamento de pedidos, desenvolvida em C# / .NET com Entity Fra
 - SQL Server
 - Swagger
 
-## 📋 Endpoints
+## Endpoints
 
 ### Clientes
 
@@ -22,7 +22,25 @@ API REST para gerenciamento de pedidos, desenvolvida em C# / .NET com Entity Fra
 | PUT | `/api/clientes/{id}` | Atualiza um cliente |
 | DELETE | `/api/clientes/{id}` | Remove um cliente |
 
-## 🚀 Como rodar
+### Produtos
+
+| Método | Endpoint | O que faz |
+|--------|----------|-----------|
+| GET | `/api/produtos` | Lista todos os produtos |
+| GET | `/api/produtos/{id}` | Busca um produto por ID |
+| POST | `/api/produtos` | Cria um novo produto |
+| PUT | `/api/produtos/{id}` | Atualiza um produto |
+| DELETE | `/api/produtos/{id}` | Remove um produto |
+
+### Pedidos
+
+| Método | Endpoint | O que faz |
+|--------|----------|-----------|
+| GET | `/api/pedidos` | Lista todos os pedidos (com itens) |
+| GET | `/api/pedidos/{id}` | Busca um pedido por ID (com itens) |
+| POST | `/api/pedidos` | Cria um novo pedido |
+
+## Como rodar
 
 1. Clone o repositório
 2. Configure a string de conexão no `AppDbContext.cs`
