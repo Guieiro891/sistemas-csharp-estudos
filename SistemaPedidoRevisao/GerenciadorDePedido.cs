@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -97,7 +99,39 @@ public class GerenciadorDePedidos
         var itens = _db.ItensPedido.Where(i => i.PedidoId == pedidoId).ToList();
        
         var total = itens.Sum(i => i.Quantidade * i.PrecoUnitario);
-        return total;
-         
+        return total;        
+    }
+
+    public List<Pedido> ListarPedidos()
+    {
+        var lista = _db.Pedidos.Include(p => p.Itens)
+            .ToList();
+        return lista;
+    }
+
+    public void AvancarStatusPedido(int pedidoId)
+    {
+       var pedido = _db.Pedidos.FirstOrDefault(p => p.Id == pedidoId);
+       if (pedido == null)
+            throw new Exception("Pedido não encontrado.");
+
+            switch (pedido.Status)
+        {
+            case StatusPedido.Criado:
+                pedido.Status = StatusPedido.Pago;
+                break;
+
+            case StatusPedido.Pago:
+                pedido.Status = StatusPedido.Enviado;
+                break;
+
+            case StatusPedido.Enviado:
+                pedido.Status = StatusPedido.Entregue;
+                break;
+
+            default:
+                throw new Exception("Pedido não pode avançar.");
+        }
+        _db.SaveChanges();
     }
 }
